@@ -1,154 +1,90 @@
-# Human Code
+# HUMAN CODE
 
-## primo esercizio
+## PRIMO ESERCIZIO
+
+## Consegna
 
 Nel frigo si inizia a sentire l'eco, perciò è ora di fare rifornimenti!
 Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca in una lista, così una volta al supermercato, girando tra gli scaffali, posso verificare di aver preso tutto e Ricky non rimane senza crocchette come l'ultima volta, povero! Devo ricordarmi di usare il coupon che scade a fine mese, per il resto dovrebbero bastarmi i contanti che ho in portafogli, sempre se non mi faccio prendere la mano con gli snack extra!
 
 
-### situazione in cui il soggetto si trova a casa, vede il frigo vuoto, fa la lista e va a fare la spesa
+## Informazioni
 
-- apro il frigo
-  - vedo che è vuoto/quasi vuoto
-  - penso di dover fare la spesa
-  - controllo cosa manca
-- chiudo il frigo
+- frigo vuoto
+- devo fare la spesa
+- ho poca memoria quindi faccio una lista
+- non mi devo dimenticare il cibo dell'animale
+- al pagamento devo usare il coupon
+- la restante parte la pago con i contanti
+   - SE sforo il budget con gli snack extra
+      - pagamento alternativo
 
-- già che ci sono mi dirigo verso la cerdenza
 
-- apro la credenza
-  - guardo cosa manca nella credenza
-    - SE manca qualcosa
-      - tengo a mente
-- chiudo la credenza
+## procedura
 
-- decido di fare la lista della spesa
+***Situazione di partenza:** mi trovo in cucina e devo controllare cosa manca per andarlo a comaprare*
 
-  - SE voglio farla su telefono
-    - prendo il telefono dalla tasca
-    - apro le note
+- prendo il telefono dove scriverò la lista della spesa
 
-  - SE voglio farla su carta
-    - vado verso il tavolo
-    - prendo carta e penna
+- controllo cosa devo comprare:
+   - vado al frigo
+   - apro il frigo
+      - finchè non ho scritto tutto quello devo comprare
+         - aggiungo alla lista l'alimento
+   - chiudo il frigo
+   - vado alla credenza
+   - apro la credenza
+      - SE manca qualcosa:
+         - finchè non ho scritto tutto quello che devo comprare
+             - aggiungo alla lista l'alimento
+   - chiudo la credenza
+   - segno i croccantini di ricky (so che mancano)
 
-- mi siedo
+- mi preparo:
+   - metto i vestiti per uscire
+   - prendo l'occorrente (es: telefono, portafoglio, chiavi)
 
-- scrivo la lista con quello che manca
-  - mi viene in mente che ho finito il cibo per la bestiola
+- mi dirigo al supermercato
 
-- finisco di scrivere
-  - SE ho usato il telefono
-    - chiudo le note salvando
-    - metto via il telefono
-
-  - SE ho usato carta e penna
-    - metto la mini penna in tasca
-    - piego il foglietto e lo metto in tasca ssieme al telefono
-
-- mi alzo
-
-- mi vesto in base al tempo
-
--prendo le chiavi di casa ed il portafoglio
-
-- decido dove andare a fare la spesa
-  - SE il supermercato è lontano o le cose da comprare sono tante
-    - prendo le chiavi della macchina
-  - SE è vicino o le cose da comprare sono poche
-    - vado a piedi
-
-- esco di casa chiudendo la porta
-
-- mi dirigo al supermercato (evitiamo inconvenienti)
-
-- arrivo al supermercato
-
-- entro nel supermercato
-
-- prendo il carrello
-
-- tiro fuopri la lista
-  - metto la mano in tasca
-    - SE è su telefono
-      - tiro fuori il telefono
-      - apro le note
-
-    - SE è su carta
-      - tiro fuori il foglietto e la mini-penna
-
-- inizio a girare per i reparti
-  - per ogni articolo di cui ho bisogno:
-    - SE c'è quello che cerco
-      - lo prendo
-      - lo metto nel carrello
-      - spunto dalla lista
-
-    - SE non c'è quello che cerco
-      - SE c'è lo stesso prodotto di un'altra marca
-        - lo prendo
-        - lo metto nel carrello
-        - spunto dalla lista
-
-      - SE il prodotto non c'è proprio
-        -mi segno che manca
-
-  - gli snack:
-    - SE decido di prenderli
-      - li metto nel carrello
-    - SE decido di non prenderli
-      - vado avanti
-
-- spesa finita
-
-- mi dirigo alla cassa (non automatica)
-
-- arrivo alla cassa
-
-- al mio turno:
-  - metto gli articoli uno per uno sul rullo
-  - al pagamento:
-    - tiro fuori il portafoglio
-      - SE do' il coupon alla cassiera:
-        - SE ho preso troppi snack extra
-          - pago con la carta
-        - SE non ho preso troppi snack extra o non ne ho presi affatto
-          - pago con i contanti
-
-      - SE mi dimentico di dare il coupon
-        - SE i contanti bastano
-          - uso i contanti
-
-        - SE i contanti non bastano
-          - pago con la carta 
-
-    - metto  via il portafoglio
-
-  - metto gli articolinei sacchetti
-
-  - prendo i sacchetti
-
-- metto via il carrello
-
-- esco dal supermercato
+- dentro al supermercato:
+   - prendo il carrello
+   - faccio la spesa:
+      - finchè non ho spuntato nella lista tutte le cose da comprare:
+         - SE l'articolo è disponibile
+             - prendo l'articolo dallo scaffale
+             - lo metto nel carrello
+             - spunto l'articolo dalla mia lista con una V
+         - SE l'articolo non è disponibile
+             -spunto l'articolo dalla mia lista con una X
+      - passo davanti al reparto snack:
+         - SE decido di prenderli
+             - li metto nel carrello
+   - arrivo in cassa:
+      - metto tutti gli articoli sul rullo
+      - sistemo il carrello
+      - pago:
+         - prendo il portafoglio
+             - SE do' il coupon alla cassiera:
+                 - SE ho preso troppi snack extra
+                     - pago con la carta
+                 - SE non ho preso troppi snack extra o non ne ho presi  affatto
+                     - pago con i contanti
+             - SE mi dimentico di dare il coupon:
+                 - SE i contanti bastano
+                     - uso i contanti
+                 - SE i contanti non bastano
+                     - pago con la carta 
+         - metto via il portafoglio
+      - metto gli articoli nei sacchetti
+      - prendo i sacchetti
+- esco da supermercato
 
 - torno a casa
-  - SE sono in auto
-    - apro l'auto
-    - metto dentro la spesa
-    - salgo in macchina
-    - guido fino a casa
-    - parcheggio
-
-  - SE sono a piedi
-    - cammino con i sacchetti in mano
 
 - entro a casa
+   - appoggio i sacchetti in cucina
+      - finchè non ho sistemato tutto:
+         - prendo le cose dal sacchetto
+         - le metto dove devono stare
 
-- appoggio i sacchetti in cucina
-
-- sistemo la spesa
-
-- do' da mangiare alla bestiola
-
-- fine
+**FINE**
