@@ -53,9 +53,9 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
 -prendo le chiavi di casa ed il portafoglio
 
 - decido dove andare a fare la spesa
-  - SE il supermercato è lontano
+  - SE il supermercato è lontano o le cose da comprare sono tante
     - prendo le chiavi della macchina
-  - SE è vicino
+  - SE è vicino o le cose da comprare sono poche
     - vado a piedi
 
 - esco di casa chiudendo la porta
