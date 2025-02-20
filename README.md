@@ -88,3 +88,59 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
          - le metto dove devono stare
 
 **FINE**
+
+
+
+## SECONDO ESERCIZIO
+
+## Consegna
+
+Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita nel nulla! Che poi, possibile che nel 2025 ci siano ancora così tanti fogli di carta in giro per l’ufficio?! Ora ci penso io: una bella scansione e l’archiviamo in formato digitale, così la prossima volta so già dove andare a cercarla! L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca farlo a mano. Va beh, poco male, almeno sono pochi fogli!
+
+
+## Informazioni
+
+- ho trovato un documento che cercavo
+- tutti i documenti sono solo in versione cartacea e non digitale
+- voglio scannerizzare i documenti cartacei per averli sul pc
+- lo scanner non ha fronte e retro, devo girare i documenti se hanno un retro
+
+
+## procedura
+
+***Situazione di partenza:** mi trovo in ufficio, sono riuscito a recuperare la pratica che cercavo ma mi accorgo che sarebbe più comodo scannerizzare tutti i documenti cartacei in modo da poterne usufruire più velocemente le prossime volte (per non entarre in casistiche troppo articolate, in questo caso nel pc ho tutto l'occorrente per effettuare la conversione e non si verificano intoppi es: si rompe lo scanner o cose simili).*
+
+- prendo tutti i documenti cartacei che voglio scannerizzare
+
+- mi dirigo allo scanner
+
+- appoggio i fogli su un tavolino/scrivania:
+   - se la scrivania/tavolino non è vicino/a
+      - lo/a sposto vicino allo scanner
+
+- accendo lo scanner
+
+- inizio con la scansione documenti:
+  - finchè non ho scannerizzato tutti i documenti
+     - prendo un foglio
+     - lo metto nello scanner
+     - scansiono il fronte
+     - riprendo il foglio
+     - SE il foglio ha un retro
+         - giro il foglio
+         - lo inserisco nello scanner
+         - scansiono il retro
+         - riprendo il foglio
+     - riappoggio il documento sulla scrivania
+
+- spengo lo scanner
+
+- prendo i documenti scansionati dal tavolo
+
+- rimetto a posto i documenti
+
+- vado al pc
+   - se è spento:
+       - lo accendo
+   - sistemo tutti i documenti scansionati catalogandoli
+   - spengo il pc
