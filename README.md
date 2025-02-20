@@ -144,3 +144,5 @@ Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita 
        - lo accendo
    - sistemo tutti i documenti scansionati catalogandoli
    - spengo il pc
+
+   **FINE**
